@@ -1,0 +1,7 @@
+curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash
+
+gaianet init
+
+gaianet start
+
+... ... https://0xf63939431ee11267f4855a166e11cc44d24960c0.us.gaianet.network
